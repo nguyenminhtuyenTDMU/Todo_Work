@@ -56,4 +56,12 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    implementation(libs.androidx.navigation.compose.v289)
+    implementation(libs.threetenabp)
+    implementation(libs.androidx.material.icons.extended)
+    implementation(libs.material3)
+    implementation(libs.bitcoinj.core)
+    implementation(libs.bcprov.jdk15to18)
+    implementation(libs.androidx.security.crypto)
+
 }
