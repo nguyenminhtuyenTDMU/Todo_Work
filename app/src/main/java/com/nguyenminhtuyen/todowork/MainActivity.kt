@@ -15,7 +15,6 @@ import androidx.compose.material.icons.filled.AccountBalanceWallet
 import androidx.compose.material.icons.filled.History
 import androidx.compose.material.icons.filled.Home
 import com.nguyenminhtuyen.todowork.sui.wallet.ensureBouncyCastleProvider
-import com.nguyenminhtuyen.todowork.viewmodel.WalletViewModel
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
